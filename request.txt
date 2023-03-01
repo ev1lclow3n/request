@@ -1,0 +1,16 @@
+GET /callback?state=b1eaec58-4617-4801-a4d0-53d4b020b52c&session_state=6516356e-5ecf-46e9-b43f-d705d5f7928f&code=46bda5dd-a001-47eb-a76b-ec169fad0527.6516356e-5ecf-46e9-b43f-d705d5f7928f.cbb719fa-9a8d-4cf4-b9fc-0acbc4683d56 HTTP/2
+Host: gobugfree.com
+Cookie: kc:session=ImVlMDI5MWE0MjJlMTFjYzQi.KZQYmRzstBRPgyQ72W%2BSntA4JFJu4sAiL9JmMJ4hwoc
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Sec-Gpc: 1
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+
+
